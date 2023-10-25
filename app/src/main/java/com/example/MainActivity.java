@@ -161,6 +161,11 @@ public class MainActivity extends AppCompatActivity {
 //        RxjavaTest.getmInstance().Test1();
 
 
+        System.out.println();
+
+
+
+
 
     }
 
